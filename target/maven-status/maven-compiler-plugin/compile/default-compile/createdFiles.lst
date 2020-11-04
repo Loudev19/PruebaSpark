@@ -1,0 +1,3 @@
+org/apache/spark/examples/JavaPageRank$Sum.class
+org/apache/spark/examples/JavaPageRank$1.class
+org/apache/spark/examples/JavaPageRank.class
